@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/FW/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/FW/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/FW/value=/root/QCA4010/tx20/target
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/INTERNALDIR/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/INTERNALDIR/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/INTERNALDIR/value=${FW}/Internal
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/PATH/value=${FW}/include/AR6002/hw/include;${FW}/include/qcom;${FW}/include;${FW}/include/AR6002;${FW}/include/AR6K;${INTERNALDIR}/include;${INTERNALDIR}/include/os;${INTERNALDIR}/include/whal;${FW}/demo/ezxml
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1682012724/appendContributed=true
